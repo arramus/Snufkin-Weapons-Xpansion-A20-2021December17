@@ -1480,11 +1480,11 @@
 				<!-- obsolete if rounds per minute exists -->
 				<property name="Magazine_items" value="ammo9mmBulletBall,ammo9mmBulletHP,ammo9mmBulletAP"/>
 				<property name="Reload_time" value="4.1"/>
-				<property name="Sound_start" value="mp5_fire"/>
-				<property name="Sound_loop" value="mp5_fire"/>
-				<property name="Sound_end" value="mp5_fire_end"/>
+				<property name="Sound_start" value="smg_fire"/>
+				<property name="Sound_loop" value="smg_fire"/>
+				<property name="Sound_end" value="smg_fire_end"/>
 				<property name="Sound_empty" value="dryfire"/>
-				<property name="Sound_reload" value="mp5_reload"/>
+				<property name="Sound_reload" value=""/>
 				<property name="Particles_muzzle_fire" value="gunfire_pistol"/>
 				<property name="Particles_muzzle_fire_fpv" value="gunfire_SMG_fpv"/>
 				<!-- <property name="DamageBonus.head" value="4"/><property name="DamageBonus.wood" value="5"/><property name="DamageBonus.earth" value=".2"/> -->
