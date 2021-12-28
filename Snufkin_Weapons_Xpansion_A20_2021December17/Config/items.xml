@@ -3184,7 +3184,7 @@
 			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Mlead_scrap"/>
 			<property name="Stacknumber" value="300"/>
-			<property name="EconomicValue" value="250"/>
+			<property name="EconomicValue" value="50"/>
 			<property name="Group" value="Ammo/Weapons"/>
 			<property name="IsSticky" value="true"/>
 			<property class="Action1">
