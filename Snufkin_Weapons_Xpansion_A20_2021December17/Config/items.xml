@@ -2094,7 +2094,7 @@
 				<property name="Instantiate_on_load" value="false"/>
 				<property name="Auto_fire" value="true" />
 				<property name="Class" value="Launcher" />
-				<!--property name="Hitmask_override" value="Arrow"/-->	<!-- Remove !-- and -- to activate shots through bars -->				
+				<!--property name="Hitmask_override" value="Arrow"/-->	<!-- Uncomment to shoot through bars -->				
 				<property name="Delay" value="0.250" />
 				<property name="Crosshair_min_distance" value="5" />
 				<property name="Crosshair_max_distance" value="30" />
