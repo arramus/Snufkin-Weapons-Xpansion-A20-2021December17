@@ -13,3 +13,5 @@ Snufkin Weapons Xpansion
 11. Updated DCLXVI Zeus attachment to A20 version.
 12. Updated Brainsaw to reflect new model and settings.
 13. Updated Back Pack mod attachment to A20 version.
+14. Updated Clucker Round sell price to reflect A20 nest availability.
+15. Updated Railgun model to 'Dragunov Railgun' to reflect A20 changes.

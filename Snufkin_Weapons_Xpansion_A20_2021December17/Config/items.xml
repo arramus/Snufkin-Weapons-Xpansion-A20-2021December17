@@ -1817,9 +1817,12 @@
 				<property name="ScopeCameraOffset" value="0,-.010,-.05"/>
 			</property>
 			<effect_group name="Deco">
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base" prefab="#Other/Items?Weapons/Ranged/SniperRifle/sniperRiflePrefab.prefab" parentTransform="Handle" localPos="0,0.02,0" localRot="0,0,0"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base2" prefab="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab" parentTransform="Handle" localPos="0,.065,0" localRot="90,0,0"/>
-				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base3" prefab="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab" parentTransform="Barrel" localPos="0,-.02,0" localRot="-90,180,0"/>
+				<!--triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base" prefab="#Other/Items?Weapons/Ranged/SniperRifle/sniperRiflePrefab.prefab" parentTransform="Handle" localPos="0,0.02,0" localRot="0,0,0"/--> <!-- A19 Values -->
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base" prefab="#Other/Items?Weapons/Ranged/Sharp Shooter/sharpShooterGunPrefab.prefab" parentTransform="Handle" localPos="0,0.0,-0.1" localRot="0,0,0"/>				
+				<!--triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base2" prefab="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab" parentTransform="Handle" localPos="0,.065,0" localRot="90,0,0"/--> <!-- A19 Values -->
+				<!--triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base3" prefab="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab" parentTransform="Barrel" localPos="0,-.02,0" localRot="-90,180,0"/--> <!-- A19 Values -->
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base2" prefab="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab" parentTransform="Handle" localPos="0,.065,0.11" localRot="90,0,0"/>
+				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="AddPart" part="Base3" prefab="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab" parentTransform="Barrel" localPos="0,0.017,0.2128" localRot="-90,180,0"/>
 				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="SetTransformActive" active="false" transform_path="ProjectileJoint"/>
 				<triggered_effect trigger="onSelfPrimaryActionUpdate" action="SetTransformActive" active="false" transform_path="crossbow_mesh"/>
 				<triggered_effect trigger="onSelfPrimaryActionStart" action="AddPart" part="Sparks" prefab="ItemModEffects/baton_electricityPrefab" parentTransform="Barrel" localPos="0,.03,0" localRot="90,0,0"/>
@@ -2091,6 +2094,7 @@
 				<property name="Instantiate_on_load" value="false"/>
 				<property name="Auto_fire" value="true" />
 				<property name="Class" value="Launcher" />
+				<!--property name="Hitmask_override" value="Arrow"/-->	<!-- Remove !-- and -- to activate shots through bars -->				
 				<property name="Delay" value="0.250" />
 				<property name="Crosshair_min_distance" value="5" />
 				<property name="Crosshair_max_distance" value="30" />
