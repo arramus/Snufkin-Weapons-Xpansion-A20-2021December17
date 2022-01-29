@@ -3534,7 +3534,7 @@
 		</item>
 		
 		<item name="Brainsaw">
-			<property name="Tags" value="melee,weapon,heavy,tool,motorTool,attStrength,perkMiner69r,perkMotherLode,perkDeepCuts,brainsaw,canHaveCosmetic"/>
+			<property name="Tags" value="melee,weapon,heavy,tool,motorTool,attStrength,perkMiner69r,perkMotherLode,brainsaw,canHaveCosmetic"/>
 			<property name="DisplayType" value="motorTool"/>
 			<property name="HoldType" value="19"/>
 			<property name="Meshfile" value="#Other/Items?Weapons/Melee/Chainsaw/chainsawPrefab.prefab"/>

@@ -109,7 +109,7 @@ ammoBlueWidow,items,item,,,Black Widow - Blue Arrow,,,,,
 ammoBlueWidowDesc,items,item,,,"This Blue Arrow is used in the Black Widow Bow. In addition to damage, it can cause the entity to be shocked and lose health from electrocution. Stays true to target in wind, humidity and the elements." 
 
 Brainsaw,items,item,,,Brainsaw,,,,,
-BrainsawDesc,items,item,,,"(Strength + Miner 69'er + Mother Lode + Deep Cuts) This chainsaw is modified with a reinforced chassis, diamond tipped teeth, and a plasma powered engine. The plasma field has been known to bring on bouts of rage as you release the Evil Dead from their suffering." 
+BrainsawDesc,items,item,,,"(Strength + Miner 69'er + Mother Lode) This chainsaw is modified with a reinforced chassis, diamond tipped teeth, and a plasma powered engine. The plasma field has been known to bring on bouts of rage as you release the Evil Dead from their suffering." 
 
 Hazard Spear,items,item,,,Hazard Spear,,,,,
 HazardSpearDesc,items,item,,,"(Perception + Javelin Master + Flurry of Blows) The Hazard Spear is made with rare Wasteland metals that provide about 10% benefit compared to the Steel Spear for attack damage, speed of attack, stamina, and degradation."
