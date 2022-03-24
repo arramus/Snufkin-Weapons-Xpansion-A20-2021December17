@@ -5,6 +5,14 @@
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='7']"> <!-- gun safe -->
 		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='61']"> <!-- Buried Loot Treasure Chest -->
+		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
+	</append>	
+
+	<append xpath="/lootcontainers/lootcontainer[@id='147']"> <!-- ATM -->
+		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
 	</append>	
 	
 	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupGunSafeSecure']" >
