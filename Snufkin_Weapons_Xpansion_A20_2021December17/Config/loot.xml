@@ -1,18 +1,18 @@
 <configs>
 	<append xpath="/lootcontainers/lootcontainer[@id='6']"> <!-- wallSafe / deskSafe -->
-		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
+		<item group="SnufkinCustomWeapons" prob="0.275" count="1,2"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='7']"> <!-- gun safe -->
-		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
+		<item group="SnufkinCustomWeapons" prob="0.275" count="1,3"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootcontainer[@id='61']"> <!-- Buried Loot Treasure Chest -->
-		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
+		<item group="SnufkinCustomWeapons" prob="0.275" count="1,3"/>
 	</append>	
 
 	<append xpath="/lootcontainers/lootcontainer[@id='147']"> <!-- ATM -->
-		<item group="SnufkinCustomWeapons" prob="0.275" count="1"/>
+		<item group="SnufkinCustomWeapons" prob="0.275" count="1,2"/>
 	</append>	
 	
 	<insertBefore xpath="/lootcontainers/lootgroup[@name='groupGunSafeSecure']" >
