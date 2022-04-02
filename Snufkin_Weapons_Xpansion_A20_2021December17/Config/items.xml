@@ -2300,7 +2300,7 @@
 
 		<item name="Glass Baseball Bat">
 			<!-- T3 clubs -->
-			<property name="Tags" value="blunt,club,melee,grunting,light,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,perkDeepCuts,canHaveCosmetic"/>
+			<property name="Tags" value="blunt,club,melee,grunting,light,longShaft,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,perkDeepCuts,canHaveCosmetic"/>
 			<property name="DisplayType" value="melee"/>
 			<property name="Group" value="Ammo/Weapons"/>
 			<property name="Meshfile" value="#Other/Items?Weapons/Melee/Bat/bat_Prefab.prefab"/>
@@ -2416,7 +2416,7 @@
 		</item>
 		<item name="Knife Baseball Bat">
 			<!-- T3 clubs -->
-			<property name="Tags" value="blunt,club,melee,grunting,light,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,perkDeepCuts,canHaveCosmetic"/>
+			<property name="Tags" value="blunt,club,melee,grunting,light,longShaft,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,perkDeepCuts,canHaveCosmetic"/>
 			<property name="DisplayType" value="melee"/>
 			<property name="Group" value="Ammo/Weapons"/>
 			<property name="Meshfile" value="#Other/Items?Weapons/Melee/Bat/bat_Prefab.prefab"/>
@@ -2538,7 +2538,7 @@
 		</item>
 		<item name="Star Baseball Bat">
 			<!-- T3 clubs -->
-			<property name="Tags" value="blunt,club,melee,grunting,light,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,perkDeepCuts,canHaveCosmetic"/>
+			<property name="Tags" value="blunt,club,melee,grunting,light,longShaft,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,perkDeepCuts,canHaveCosmetic"/>
 			<property name="DisplayType" value="melee"/>
 			<property name="Group" value="Ammo/Weapons"/>
 			<property name="Meshfile" value="#Other/Items?Weapons/Melee/Bat/bat_Prefab.prefab"/>
