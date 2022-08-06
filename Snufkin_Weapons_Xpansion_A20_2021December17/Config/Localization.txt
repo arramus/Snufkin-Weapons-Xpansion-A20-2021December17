@@ -13,7 +13,7 @@ StickyGrenade,items,item,,,Sticky Grenade,,,,,
 StickyGrenadeDesc,items,item,,,"A hand grenade that will adhere to the surface it touches, be it inanimate or animate. Hold primary action to build throwing distance and release to throw. This grenade will prime upon contact."
 
 HyperBlaster,items,item,,,Hyper Blaster,,,,,
-HyperBlasterDesc,items,item,,,"(Fortitude + Machine Gunner) An assault rifle that shoots UV bolts instead of bullets. It has a very high rate of fire but low damage output per shot, so to use effectively you need to fire in long bursts."
+HyperBlasterDesc,items,item,,,"(Fortitude + Machine Gunner) An assault rifle that shoots UV bolts from Energy Cells instead of bullets. It has a very high rate of fire but low damage output per shot, so to use effectively you need to fire in long bursts."
 
 Energy Cells,items,item,,,Energy Cells,,,,,
 EnergyCellsDesc,items,item,,,"Energy Cells are used in the Hyper Blaster weapon. UV bolts that have low damage per shot and require long sustained bursts to cause significant damage. Craft in batches of 100 or 1000."
